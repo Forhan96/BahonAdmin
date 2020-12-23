@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "410717809343",
+    "firebase_url": "https://bahon-19d9c.firebaseio.com",
+    "project_id": "bahon-19d9c",
+    "storage_bucket": "bahon-19d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410717809343:android:156e04560b3aa8c105340a",
+        "android_client_info": {
+          "package_name": "com.example.adminbahon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPAyngSJpnFBq8YU_PvvbJO0-jiOHBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410717809343:android:284e877df527589705340a",
+        "android_client_info": {
+          "package_name": "com.example.bahon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410717809343-tprcevld9c7f1p5kckk301bvgp2lu6ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bahon",
+            "certificate_hash": "73411b7018640dcc84f668e3c66c48cdca5ac9be"
+          }
+        },
+        {
+          "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPAyngSJpnFBq8YU_PvvbJO0-jiOHBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410717809343:android:ed2b3a326b7ce21e05340a",
+        "android_client_info": {
+          "package_name": "com.example.bahondrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410717809343-ur47cv7csdm1ij8lplans15o17v5t0p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bahondrive",
+            "certificate_hash": "73411b7018640dcc84f668e3c66c48cdca5ac9be"
+          }
+        },
+        {
+          "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPAyngSJpnFBq8YU_PvvbJO0-jiOHBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410717809343-rha6nmkkmhsgs1miemb91h9jviaki73g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
